@@ -22,4 +22,4 @@
 ---
 
 ### 📫 聯絡我 (Connect with Me)
-* Email: alp945@gmail.com
+* Email: hsinkang.chen@gmail.com
