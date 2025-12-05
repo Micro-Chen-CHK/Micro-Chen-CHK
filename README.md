@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 精選作品集 (Portfolio Highlight)
+### 🚀 作品集 (Portfolio)
 歡迎參觀我的金融數據分析專案倉庫：
 👉 **[點此進入 Financial-Data-Analysis-Portfolio](https://github.com/OMGDS-Micro/Financial-Data-Analysis-Portfolio)**
 
